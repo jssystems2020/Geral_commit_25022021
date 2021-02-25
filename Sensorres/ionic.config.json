@@ -1,0 +1,7 @@
+{
+  "name": "sensorres",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
